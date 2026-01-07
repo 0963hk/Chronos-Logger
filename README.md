@@ -2,7 +2,7 @@
 
 > **Capture your day, second by second.** > 一个极简、无干扰、基于浏览器的每日活动记录工具。
 
-[🔴 Live Demo](https://<你的Github用户名>.github.io/chronos-logger/) ## 📖 简介 (Introduction)
+## 📖 简介 (Introduction)
 
 **Chronos Logger** 是一个单文件的 HTML 应用程序，旨在帮助开发者、学生和效率爱好者记录每日的时间流向。
 
