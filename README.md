@@ -49,6 +49,5 @@
 * Vanilla JavaScript (ES6+)
 * No External Dependencies (无第三方库)
 
-## 📄 License
-
-MIT License © 2024 <Your Name>
+## 📄Bug反馈
+请联系：jzhongau@connect.ust.hk
