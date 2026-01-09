@@ -1,6 +1,7 @@
 # ⏳ Chronos Logger
 
-> **Capture your day, second by second.** > 一个极简、无干扰、基于浏览器的每日活动记录工具。
+> **Capture your day, second by second.**
+> <br> 一个极简、无干扰、基于浏览器的每日活动记录工具。
 
 ## 📖 简介 (Introduction)
 
